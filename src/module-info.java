@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vinod
+ *
+ */
+module EmailApplication {
+}
